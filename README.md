@@ -41,3 +41,32 @@ Use > Texto para criar um citção em bloco.
 
 > Isso é um bloco.
 
+codigo 
+
+
+use crases (') para inserir o codigo inline.
+
+use tres crases (''') para criar blocos de codigo 
+
+use crases (\') para inserir codigp 'inline'
+
+'print("mostra imagem') 
+
+''' 
+
+idade = 10 
+
+print(f" A idade é {idade}")
+'''
+
+
+crie tabelas com barrar verticais (|) para separar colunas.
+use  hifen e colons para definir a formataçao da tabela 
+
+
+| **Cabeçario1**|**Cabeçario2**|
+|---------------|--------------|
+| Dado 1        | Dado2        |
+| Dado 3        | Dado4        |
+|---------------|--------------|
+
