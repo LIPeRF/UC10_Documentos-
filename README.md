@@ -24,3 +24,15 @@ Lista Ordenada
 
 Link:
 [Texto do link]https://github.com/LIPeRF/UC10_Documentos.git
+
+image
+![image]https://rockcontent.com/br/blog/o-que-e-github/
+Enfase:
+
+negrito -> **exto em negrito**ou __texto em negrito__.
+
+tachado: ~~Texto tachado~~ 
+
+subscrito: Olhoa só<sub> olha lá <sub>
+Subescrito  bonito <sup> rsrsrsr <sup> 
+
