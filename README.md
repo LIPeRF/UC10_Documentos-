@@ -70,3 +70,11 @@ use  hifen e colons para definir a formataçao da tabela
 | Dado 3        | Dado4        |
 
 
+
+Listas de tarefas :
+use- [ ] para criar uma lista de tarefas não marcadas. 
+use - [x] para criar una lista de tarefas marcadas 
+Exemplo 
+[x] tarefa concluida 
+-[ ] tarefa pedente 
+
