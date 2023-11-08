@@ -34,5 +34,10 @@ negrito -> **exto em negrito**ou __texto em negrito__.
 tachado: ~~Texto tachado~~ 
 
 subscrito: Olhoa só<sub> olha lá <sub>
+
 Subescrito  bonito <sup> rsrsrsr <sup> 
+
+Use > Texto para criar um citção em bloco.
+
+> Isso é um bloco.
 
