@@ -75,10 +75,28 @@ Listas de tarefas :
 use- [ ] para criar uma lista de tarefas não marcadas. 
 use - [x] para criar una lista de tarefas marcadas.
 
-
-
-
 Exemplo:
 -[x] tarefa concluida 
 -[ ] tarefa pedente 
 
+aqui é um exemplo de rodapé [^1]
+
+a aula pe com o Ricardo[^2]
+
+[^1]Rodaé: conteudo inferio do documento .
+
+[^2]Ricardo da turmad de Git 
+aqui outra linha 
+
+
+alerta 
+>**note**
+>Esta é uma nota
+>[!NOTE]
+>destaca informações que os usúarios devem levar em consideração, mesmo duarante a leitura superficial
+
+[!IMPORANT]
+informações cruciais necessário para o sucesso do usúarios 
+
+[!WARING]
+conteudo crítico que exige atençao imediata do usúario devido a riscos potenciais.
